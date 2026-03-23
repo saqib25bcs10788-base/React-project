@@ -38,7 +38,7 @@ const App = () => {
       
       <div className="main-content">
        <header className="hero-section">
-  <div className="hero-glass-card">
+  <div className="hero-glass-card">~
     <h1 className="glitch-text">Impact Central</h1>
     <p className="subtitle">Discover movements that matter.</p>
     
